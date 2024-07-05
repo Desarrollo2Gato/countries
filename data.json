@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "country": "Argentina",
+    "calling_code": "+54",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 2,
+    "country": "Bolivia",
+    "calling_code": "+591",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 3,
+    "country": "Chile",
+    "calling_code": "+56",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 4,
+    "country": "Colombia",
+    "calling_code": "+57",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 5,
+    "country": "Costa Rica",
+    "calling_code": "+506",
+    "continent": "América Central"
+  },
+  {
+    "id": 6,
+    "country": "Cuba",
+    "calling_code": "+53",
+    "continent": "Caribe"
+  },
+  {
+    "id": 7,
+    "country": "Ecuador",
+    "calling_code": "+593",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 8,
+    "country": "El Salvador",
+    "calling_code": "+503",
+    "continent": "América Central"
+  },
+  {
+    "id": 9,
+    "country": "España",
+    "calling_code": "+34",
+    "continent": "Europa"
+  },
+  {
+    "id": 10,
+    "country": "Guatemala",
+    "calling_code": "+502",
+    "continent": "América Central"
+  },
+  {
+    "id": 11,
+    "country": "Honduras",
+    "calling_code": "+504",
+    "continent": "América Central"
+  },
+  {
+    "id": 12,
+    "country": "México",
+    "calling_code": "+52",
+    "continent": "América del Norte"
+  },
+  {
+    "id": 13,
+    "country": "Nicaragua",
+    "calling_code": "+505",
+    "continent": "América Central"
+  },
+  {
+    "id": 14,
+    "country": "Panamá",
+    "calling_code": "+507",
+    "continent": "América Central"
+  },
+  {
+    "id": 15,
+    "country": "Paraguay",
+    "calling_code": "+595",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 16,
+    "country": "Perú",
+    "calling_code": "+51",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 17,
+    "country": "Puerto Rico",
+    "calling_code": "+1-787",
+    "continent": "Caribe"
+  },
+  {
+    "id": 18,
+    "country": "República Dominicana",
+    "calling_code": "+1-809",
+    "continent": "Caribe"
+  },
+  {
+    "id": 19,
+    "country": "Uruguay",
+    "calling_code": "+598",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 20,
+    "country": "Venezuela",
+    "calling_code": "+58",
+    "continent": "América del Sur"
+  },
+  {
+    "id": 21,
+    "country": "Andorra",
+    "calling_code": "+376",
+    "continent": "Europa"
+  },
+  {
+    "id": 22,
+    "country": "Estados Unidos",
+    "calling_code": "+1",
+    "continent": "América del Norte"
+  },
+  {
+    "id": 23,
+    "country": "Canadá",
+    "calling_code": "+1",
+    "continent": "América del Norte"
+  }
+]
