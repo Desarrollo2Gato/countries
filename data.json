@@ -119,20 +119,15 @@
     "calling_code": "+58",
     "continent": "América del Sur"
   },
+  
   {
     "id": 21,
-    "country": "Andorra",
-    "calling_code": "+376",
-    "continent": "Europa"
-  },
-  {
-    "id": 22,
     "country": "Estados Unidos",
     "calling_code": "+1",
     "continent": "América del Norte"
   },
   {
-    "id": 23,
+    "id": 22,
     "country": "Canadá",
     "calling_code": "+1",
     "continent": "América del Norte"
