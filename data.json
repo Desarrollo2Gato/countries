@@ -29,54 +29,29 @@
     "calling_code": "+506",
     "continent": "América Central"
   },
-  {
-    "id": 6,
-    "country": "Cuba",
-    "calling_code": "+53",
-    "continent": "Caribe"
-  },
+
   {
     "id": 7,
     "country": "Ecuador",
     "calling_code": "+593",
     "continent": "América del Sur"
   },
-  {
-    "id": 8,
-    "country": "El Salvador",
-    "calling_code": "+503",
-    "continent": "América Central"
-  },
+
   {
     "id": 9,
     "country": "España",
     "calling_code": "+34",
     "continent": "Europa"
   },
-  {
-    "id": 10,
-    "country": "Guatemala",
-    "calling_code": "+502",
-    "continent": "América Central"
-  },
-  {
-    "id": 11,
-    "country": "Honduras",
-    "calling_code": "+504",
-    "continent": "América Central"
-  },
+
+
   {
     "id": 12,
     "country": "México",
     "calling_code": "+52",
     "continent": "América del Norte"
   },
-  {
-    "id": 13,
-    "country": "Nicaragua",
-    "calling_code": "+505",
-    "continent": "América Central"
-  },
+
   {
     "id": 14,
     "country": "Panamá",
@@ -95,18 +70,8 @@
     "calling_code": "+51",
     "continent": "América del Sur"
   },
-  {
-    "id": 17,
-    "country": "Puerto Rico",
-    "calling_code": "+1-787",
-    "continent": "Caribe"
-  },
-  {
-    "id": 18,
-    "country": "República Dominicana",
-    "calling_code": "+1-809",
-    "continent": "Caribe"
-  },
+
+
   {
     "id": 19,
     "country": "Uruguay",
